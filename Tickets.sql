@@ -53,7 +53,7 @@ CREATE TABLE `login_table` (
 -- ----------------------------
 -- Records of login_table
 -- ----------------------------
-INSERT INTO `login_table` VALUES ('Admin', 'admin', '1');
+INSERT INTO `login_table` VALUES ('Admin', 'admin', '0');
 INSERT INTO `login_table` VALUES ('Cashier', 'cashier', '0');
 
 -- ----------------------------
